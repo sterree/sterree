@@ -1,11 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-Élève ingénieure en informatique, j'aime comprendre un problème, structurer une solution et la mener jusqu'au bout.
+<p align="center">
+  <i>Comprendre un problème, structurer une solution, la mener jusqu'au bout.</i>
+</p>
 
-## Compétences
-**Langages :** Python · Java · C · C++ · SQL · R · JavaScript · HTML/CSS · PHP
-**IA et data :** Machine learning · Deep learning · LLMs
-**Outils :** Git · Linux · Méthodes agiles
+<p align="center">
+  Élève ingénieure en informatique, curieuse de l'intelligence artificielle et de la data.
+</p>
 
-## Projets
+---
+
+## ✦ Compétences
+
+| | |
+|---|---|
+| 💻 **Langages** | `Python` `Java` `C` `C++` `SQL` `R` `JavaScript` `HTML/CSS` `PHP` |
+| 🧠 **IA & data** | `Machine learning` `Deep learning` `LLMs` |
+| 🛠️ **Outils** | `Git` `Linux` |
+| 🧭 **Méthodes** | `Agile` `Gestion de projet` |
+
+---
+
+## ✦ Projets
+
 Les projets épinglés ci-dessous donnent un aperçu de ce que j'ai réalisé.
